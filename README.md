@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jeffgilbert24
 - 👀 I’m interested in C#, Java, JavaScript, SQL Server, Databases, Big data, Agile methodologies  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Management Information Systems at Columbia College
 - 📫 How to reach me ... jgilbert868@gmail.com
 
 <!---
