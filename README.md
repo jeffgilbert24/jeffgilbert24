@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jeffgilbert24
-- 👀 I’m interested in C#, Java, JavaScript, SQL Server, Databases, Big data, Agile methodologies  
-- 🌱 I’m currently learning Management Information Systems at Columbia College
+- 👋 Hi, I’m Jeffery Gilbert
+- 👀 I work with the following: C#, Java, JavaScript, SQL Server, Databases, NoSQL, Agile methodologies  
+- 🌱 I have a B.S. degree in Management Information Systems from Columbia College of Missouri
 - 📫 How to reach me ... jgilbert868@gmail.com
 
 <!---
